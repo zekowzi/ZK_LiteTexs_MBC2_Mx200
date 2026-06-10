@@ -1,6 +1,9 @@
 # #LiteTexs - MB Citaro C2 (Mx200)
 Lui aussi est de retour: mon ancien mod Textures Optimisées sur la gamme Citaro C2 de Mx200. La compatibilité avec le mod 2024+ de Tabley-Kun (https://reboot.omsi-webdisk.de/file/14664-mod-fuer-den-mx200-c2-citaro-2-2024/#overview) est accrue.
 
+# Notes
+Ne vous fiez pas (tout comme sur les LiteTexs des Urbino de Sobol) au nom de l'archive: je me suis aussi planté de nom lors de la confection de celle-ci.
+
 # Installation
 Winrar ou alternatives requise. Glissez le contenu de l'archive dans le dossier steamapps/common.
 
