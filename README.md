@@ -7,4 +7,5 @@ Ne vous fiez pas (tout comme sur les LiteTexs des Urbino de Sobol) au nom de l'a
 # Installation
 Winrar ou alternatives requise. Glissez le contenu de l'archive dans le dossier steamapps/common.
 
-Ce mod est protégé par une licence TOUT DROITS RÉSERVÉS - Kowzii 2026
+***Il est formellement INTERDIT de réupload ce mod en dehors de ses canaux officiels (Omsistuff)***<br>
+***Tous droits réservés - Kowzi - 2026***
